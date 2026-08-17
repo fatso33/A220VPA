@@ -1,0 +1,1 @@
+- in Simbrief Auto mode, app assumes transition flight level 180.
